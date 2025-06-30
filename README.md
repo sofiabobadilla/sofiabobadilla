@@ -1,25 +1,19 @@
-### Hi there 👋
-I'm Sofia, a PhD student at KTH, Royal Institute of Technology Sweden. 
-My research focus is automated program repair for smart contracts and smart contract security.
+## 👋 Hi, I'm Sofía Bobadilla
 
-The first milestone of my PhD is already on arXiv, have a look : 
+PhD student at **KTH Royal Institute of Technology**, Sweden 🇸🇪  
+Researching **automated program repair** and **smart contract security**
 
-[Do Automated Fixes Truly Mitigate Smart Contract Exploits?](https://arxiv.org/abs/2501.04600)
+📄 Latest paper:  
+[**Do Automated Fixes Truly Mitigate Smart Contract Exploits?**](https://arxiv.org/abs/2501.04600)
 
-- 💬 Are you a master's student interested in smart contract research? Join our team. We have several [master thesis topics](https://www.monperrus.net/martin/topics).
-- 👯 Are you a fellow PhD student working in the same neighborhood? DO reach out, information exchange is crucial for science. sofbobATkthDOTse
+- 💬 Interested in smart contract research? [Master’s thesis topics here](https://www.monperrus.net/martin/topics)
+- 👯 PhD in a similar area? Let’s exchange ideas — `sofbob [AT] kth [DOT] se`
+- 🎯 Open to internships in 2025 (smart contract security / blockchain)
 
-<!--
-**Sofi1410/Sofi1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiabobadilla&show_icons=true&locale=en&layout=compact" alt="sofiabobadilla" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiabobadilla&locale=en&rank_icon=github" alt="sofiabobadilla" /></p>
