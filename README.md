@@ -14,6 +14,5 @@ Researching **automated program repair** and **smart contract security**
 
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiabobadilla&show_icons=true&locale=en&layout=compact" alt="sofiabobadilla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiabobadilla&locale=en&rank_icon=github" alt="sofiabobadilla" /></p>
